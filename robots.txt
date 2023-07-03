@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /adhd.html
+Disallow: /anxiety.html
+Disallow: /appointments.html
+Disallow: /bipolar.html
+Disallow: /blog-ADHD.html
+Disallow: /blog-anxiety.html
+Disallow: /blog-details.html
+Disallow: /blog-PTSD.html
+Disallow: /blog-telepsychiatry.html
+Disallow: /ptsd.html
+Disallow: /stress.html
+Disallow: /assets/img/Good_Faith_Estimate.webp
+Disallow: /RPS/assets/files/HIPAA_privacy_policy_private_charts.pdf
+
+
+
